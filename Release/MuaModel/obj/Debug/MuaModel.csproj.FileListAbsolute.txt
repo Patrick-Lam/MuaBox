@@ -1,0 +1,28 @@
+D:\VS_OBJ\Mua\MuaModel\bin\Debug\MuaModel.dll
+D:\VS_OBJ\Mua\MuaModel\bin\Debug\MuaModel.pdb
+D:\VS_OBJ\Mua\MuaModel\obj\Debug\ResolveAssemblyReference.cache
+D:\VS_OBJ\Mua\MuaModel\obj\Debug\MuaModel.dll
+D:\VS_OBJ\Mua\MuaModel\obj\Debug\MuaModel.pdb
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\bin\Debug\MuaModel.dll
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\bin\Debug\MuaModel.pdb
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\bin\Debug\MuaBox.dll
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\bin\Debug\MuaBox.pdb
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\obj\Debug\MuaModel.dll
+C:\Documents and Settings\XP\My Documents\VS_OBJ\Mua\MuaModel\obj\Debug\MuaModel.pdb
+C:\Users\W7\Documents\VN\Mua\MuaModel\bin\Debug\MuaModel.dll
+C:\Users\W7\Documents\VN\Mua\MuaModel\bin\Debug\MuaModel.pdb
+C:\Users\W7\Documents\VN\Mua\MuaModel\bin\Debug\MuaBox.dll
+C:\Users\W7\Documents\VN\Mua\MuaModel\bin\Debug\MySql.Data.dll
+C:\Users\W7\Documents\VN\Mua\MuaModel\bin\Debug\MuaBox.pdb
+C:\Users\W7\Documents\VN\Mua\MuaModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Documents\VN\Mua\MuaModel\obj\Debug\MuaModel.dll
+C:\Users\W7\Documents\VN\Mua\MuaModel\obj\Debug\MuaModel.pdb
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\bin\Debug\MuaModel.dll
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\bin\Debug\MuaModel.pdb
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\bin\Debug\MuaBox.dll
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\bin\Debug\MySql.Data.dll
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\obj\Debug\MuaModel.dll
+C:\Users\W7\Documents\VN\Mua\Release\MuaModel\obj\Debug\MuaModel.pdb
